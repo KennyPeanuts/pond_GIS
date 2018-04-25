@@ -1,0 +1,435 @@
+﻿OBJECTID,Shape,Permanent_Identifier,FDate,Resolution,GNIS_ID,GNIS_Name,AreaSqKm,Elevation,ReachCode,FType,FCode,VisibilityFilter,Shape_Length,Shape_Area,Rank
+4991,Polygon Z,61499223,11/15/02,High,<Null>,<Null>,0,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000414,0,1
+22073,Polygon Z,61499709,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000803,0,2
+22530,Polygon Z,61498705,11/15/02,High,<Null>,<Null>,0,86.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000835,0,3
+22604,Polygon Z,61498743,11/15/02,High,<Null>,<Null>,0,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000531,0,4
+31217,Polygon Z,61498739,11/15/02,High,<Null>,<Null>,0,72.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000628,0,5
+39264,Polygon Z,61499499,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000787,0,6
+39422,Polygon Z,61499075,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000646,0,7
+48341,Polygon Z,61497931,11/15/02,High,<Null>,<Null>,0,80.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000798,0,8
+56427,Polygon Z,61499457,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000748,0,9
+56675,Polygon Z,61498959,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000912,0,10
+57124,Polygon Z,61496869,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000967,0,11
+65329,Polygon Z,61497311,11/15/02,High,<Null>,<Null>,0,56.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000871,0,12
+73996,Polygon Z,61498981,11/15/02,High,<Null>,<Null>,0,81.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000818,0,13
+74028,Polygon Z,61499163,11/15/02,High,<Null>,<Null>,0,87.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000618,0,14
+82694,Polygon Z,61498963,11/15/02,High,<Null>,<Null>,0,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000616,0,15
+99464,Polygon Z,61499751,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000771,0,16
+99552,Polygon Z,61499307,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000847,0,17
+99664,Polygon Z,61499023,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000639,0,18
+99735,Polygon Z,61498293,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000644,0,19
+99872,Polygon Z,61497971,11/15/02,High,<Null>,<Null>,0,63.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000856,0,20
+99908,Polygon Z,61498713,11/15/02,High,<Null>,<Null>,0,86.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000547,0,21
+107973,Polygon Z,61499297,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000787,0,22
+108409,Polygon Z,61498913,11/15/02,High,<Null>,<Null>,0,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000828,0,23
+117002,Polygon Z,61499265,11/15/02,High,<Null>,<Null>,0,86.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000599,0,24
+134437,Polygon Z,61498067,11/15/02,High,<Null>,<Null>,0,71.3,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000828,0,25
+48342,Polygon Z,{4C1D1DCD-FA68-4C51-B59E-B38E5F2CEADA},10/16/12,High,<Null>,<Null>,0.000301,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000723,0,26
+5020,Polygon Z,{066A63D7-FDD9-4617-BA90-875CB15B246F},10/16/12,High,<Null>,<Null>,0.000638,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001112,0,27
+65423,Polygon Z,{2F41F3FA-99B7-47A7-8FD5-E939850C7688},10/16/12,High,<Null>,<Null>,0.000701,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001066,0,28
+13624,Polygon Z,{E814FEC3-A941-49EE-B632-48D5169A0FC5},10/16/12,High,<Null>,<Null>,0.000812,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001378,0,29
+48099,Polygon Z,{D130804E-D09D-4EA8-BDA8-CC6C0EA8C3E5},10/16/12,High,<Null>,<Null>,0.000943,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001266,0,30
+4611,Polygon Z,61499615,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001558,0,31
+4765,Polygon Z,61498455,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001331,0,32
+4916,Polygon Z,61498319,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001539,0,33
+5134,Polygon Z,61498695,11/15/02,High,<Null>,<Null>,0.001,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001637,0,34
+5238,Polygon Z,61498673,11/15/02,High,<Null>,<Null>,0.001,83.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001325,0,35
+5240,Polygon Z,61497237,11/15/02,High,<Null>,<Null>,0.001,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000934,0,36
+13623,Polygon Z,61498607,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002514,0,37
+13657,Polygon Z,61500915,11/15/02,High,<Null>,<Null>,0.001,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001549,0,38
+13824,Polygon Z,61498969,11/15/02,High,<Null>,<Null>,0.001,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001159,0,39
+13865,Polygon Z,61498735,11/15/02,High,<Null>,<Null>,0.001,71.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001134,0,40
+13866,Polygon Z,61497991,11/15/02,High,<Null>,<Null>,0.001,72.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000858,0,41
+13898,Polygon Z,61498685,11/15/02,High,<Null>,<Null>,0.001,87.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001367,0,42
+14192,Polygon Z,61497207,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001151,0,43
+14194,Polygon Z,61496865,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001502,0,44
+22235,Polygon Z,61499095,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001595,0,45
+22576,Polygon Z,61497713,11/15/02,High,<Null>,<Null>,0.001,68.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001513,0,46
+22633,Polygon Z,61498921,11/15/02,High,<Null>,<Null>,0.001,90.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001728,0,47
+22733,Polygon Z,61497385,11/15/02,High,<Null>,<Null>,0.001,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001284,0,48
+31420,Polygon Z,61497981,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001081,0,49
+31455,Polygon Z,61498125,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000934,0,50
+39263,Polygon Z,61499481,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000964,0,51
+39424,Polygon Z,61497911,11/15/02,High,<Null>,<Null>,0.001,96,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00192,0,52
+47872,Polygon Z,61498469,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001514,0,53
+47904,Polygon Z,61498141,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001773,0,54
+47985,Polygon Z,61500917,11/15/02,High,<Null>,<Null>,0.001,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001555,0,55
+48452,Polygon Z,135972692,6/3/05 8:00,High,<Null>,<Null>,0.001,<Null>,3.0102E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001313,0,56
+56512,Polygon Z,61499625,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001226,0,57
+56585,Polygon Z,61498153,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001298,0,58
+65063,Polygon Z,61499581,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001175,0,59
+65327,Polygon Z,61498905,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001692,0,60
+65395,Polygon Z,61499151,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001147,0,61
+73922,Polygon Z,61496971,11/15/02,High,<Null>,<Null>,0.001,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001368,0,62
+74326,Polygon Z,61498041,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001627,0,63
+82667,Polygon Z,61497527,11/15/02,High,<Null>,<Null>,0.001,56.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.0013,0,64
+82807,Polygon Z,135960693,7/30/10 6:29,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001127,0,65
+83098,Polygon Z,61497431,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000979,0,66
+91059,Polygon Z,61498075,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001088,0,67
+91231,Polygon Z,61497597,11/15/02,High,<Null>,<Null>,0.001,59.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00123,0,68
+91633,Polygon Z,61497035,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00119,0,69
+99696,Polygon Z,61497357,11/15/02,High,<Null>,<Null>,0.001,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001283,0,70
+99876,Polygon Z,61496197,11/15/02,High,<Null>,<Null>,0.001,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001438,0,71
+100109,Polygon Z,61496587,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001518,0,72
+108001,Polygon Z,61499027,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001522,0,73
+108102,Polygon Z,61498793,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001123,0,74
+108590,Polygon Z,61498201,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001824,0,75
+108591,Polygon Z,61498051,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001362,0,76
+116620,Polygon Z,61499759,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001424,0,77
+116964,Polygon Z,61499311,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001527,0,78
+125696,Polygon Z,61499317,11/15/02,High,<Null>,<Null>,0.001,93,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001378,0,79
+125697,Polygon Z,61499191,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001312,0,80
+125766,Polygon Z,61496379,11/15/02,High,<Null>,<Null>,0.001,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001518,0,81
+125835,Polygon Z,61498529,11/15/02,High,<Null>,<Null>,0.001,83.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001113,0,82
+125838,Polygon Z,61496245,11/15/02,High,<Null>,<Null>,0.001,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001562,0,83
+125950,Polygon Z,61498725,11/15/02,High,<Null>,<Null>,0.001,90.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001604,0,84
+126022,Polygon Z,61496665,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000971,0,85
+126077,Polygon Z,61498117,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001393,0,86
+134060,Polygon Z,61499559,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001602,0,87
+134252,Polygon Z,61498563,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001535,0,88
+134501,Polygon Z,61498667,11/15/02,High,<Null>,<Null>,0.001,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.000984,0,89
+134537,Polygon Z,61498057,11/15/02,High,<Null>,<Null>,0.001,72.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001495,0,90
+134614,Polygon Z,61498679,11/15/02,High,<Null>,<Null>,0.001,89.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.0012,0,91
+134747,Polygon Z,61497063,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001563,0,92
+117046,Polygon Z,{E3AC2D41-8C0F-437D-B2EE-EF22FC25DAB1},10/16/12,High,<Null>,<Null>,0.001045,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00132,0,93
+91298,Polygon Z,{52A9C04D-5CD3-4897-A965-CD3414988B95},10/16/12,High,<Null>,<Null>,0.001059,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001349,0,94
+48156,Polygon Z,{631770C9-682F-492A-A459-3AD846DE44D8},10/16/12,High,<Null>,<Null>,0.001118,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001378,0,95
+125734,Polygon Z,{59787CEF-A715-48FB-93A9-7B3F68422A6E},10/16/12,High,<Null>,<Null>,0.001129,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001483,0,96
+73834,Polygon Z,{AD48D312-C888-4228-9E4F-09C6C7A0962D},10/16/12,High,<Null>,<Null>,0.00113,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001351,0,97
+5136,Polygon Z,{D58BD776-1777-4FF1-A7A3-4171C0D4F4D2},10/16/12,High,<Null>,<Null>,0.001153,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001469,0,98
+134408,Polygon Z,{685DF0AC-26F3-438A-9572-4F1F6A843596},10/16/12,High,<Null>,<Null>,0.001157,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001332,0,99
+56893,Polygon Z,61498709,10/16/12,High,<Null>,<Null>,0.001188,81.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001529,0,100
+65498,Polygon Z,{4F2F753B-64C0-44B6-8D46-D1F944A7ABC6},10/16/12,High,<Null>,<Null>,0.001214,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001598,0,101
+125638,Polygon Z,{658A3136-4192-4ECE-BD12-73160FDDBE7F},10/16/12,High,<Null>,<Null>,0.001231,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002432,0,102
+117045,Polygon Z,{758D63EF-DF9A-4456-9D76-7A70C1FD4ADD},10/16/12,High,<Null>,<Null>,0.001254,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001472,0,103
+4919,Polygon Z,{5A266AB0-8232-45DC-9F6E-65931764A34B},10/16/12,High,<Null>,<Null>,0.001368,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00226,0,104
+30851,Polygon Z,{F2AAA5B5-49BE-46A9-828F-642D43C79C03},10/16/12,High,<Null>,<Null>,0.001479,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001589,0,105
+99775,Polygon Z,{F4653E84-FC75-45A8-AFE3-581ECB759A8E},10/16/12,High,<Null>,<Null>,0.001521,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002242,0,106
+13867,Polygon Z,{AB9D5DEF-E86D-4749-8CFC-FB3006CD1633},10/16/12,High,<Null>,<Null>,0.001696,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.0018,0,107
+30883,Polygon Z,{A51B466E-F1BF-4577-A343-3D120468B035},10/16/12,High,<Null>,<Null>,0.001842,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001696,0,108
+4951,Polygon Z,61498225,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00167,0,109
+13786,Polygon Z,61498387,11/15/02,High,<Null>,<Null>,0.002,80.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002051,0,110
+13965,Polygon Z,61498425,11/15/02,High,<Null>,<Null>,0.002,77.1,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001713,0,111
+14105,Polygon Z,61498173,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002019,0,112
+22170,Polygon Z,61499253,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001997,0,113
+22416,Polygon Z,61498559,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001903,0,114
+30884,Polygon Z,61497381,11/15/02,High,<Null>,<Null>,0.002,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001823,0,115
+31218,Polygon Z,61498883,11/15/02,High,<Null>,<Null>,0.002,93,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001595,0,116
+39383,Polygon Z,61499083,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002072,0,117
+39456,Polygon Z,61501161,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001564,0,118
+47941,Polygon Z,61498853,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002078,0,119
+56712,Polygon Z,61500977,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001905,0,120
+56856,Polygon Z,61497999,11/15/02,High,<Null>,<Null>,0.002,74.1,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002339,0,121
+56894,Polygon Z,61498603,11/15/02,High,<Null>,<Null>,0.002,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001679,0,122
+56895,Polygon Z,61498661,11/15/02,High,<Null>,<Null>,0.002,87.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001675,0,123
+65328,Polygon Z,61498127,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002028,0,124
+65330,Polygon Z,61500955,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001724,0,125
+65363,Polygon Z,61500975,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001943,0,126
+65573,Polygon Z,61498575,11/15/02,High,<Null>,<Null>,0.002,71.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002015,0,127
+65574,Polygon Z,61498151,11/15/02,High,<Null>,<Null>,0.002,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001777,0,128
+74365,Polygon Z,61496673,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001481,0,129
+82636,Polygon Z,61500953,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001802,0,130
+82809,Polygon Z,61498677,11/15/02,High,<Null>,<Null>,0.002,87.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001966,0,131
+82952,Polygon Z,135972688,6/1/05 17:31,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001747,0,132
+91144,Polygon Z,61498049,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002034,0,133
+91202,Polygon Z,61501089,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001668,0,134
+91230,Polygon Z,61501077,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002371,0,135
+91511,Polygon Z,61498171,11/15/02,High,<Null>,<Null>,0.002,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001992,0,136
+99910,Polygon Z,61495841,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001672,0,137
+99977,Polygon Z,61498699,11/15/02,High,<Null>,<Null>,0.002,81.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001672,0,138
+108000,Polygon Z,61499165,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001811,0,139
+108147,Polygon Z,61497511,11/15/02,High,<Null>,<Null>,0.002,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001898,0,140
+108212,Polygon Z,61500947,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001841,0,141
+108408,Polygon Z,61498811,11/15/02,High,<Null>,<Null>,0.002,80.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001704,0,142
+116820,Polygon Z,61498155,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002068,0,143
+116895,Polygon Z,61497491,11/15/02,High,<Null>,<Null>,0.002,80.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001975,0,144
+117003,Polygon Z,61498305,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00165,0,145
+117259,Polygon Z,135960663,6/1/05 16:26,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001877,0,146
+117385,Polygon Z,61496765,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002158,0,147
+125801,Polygon Z,61497783,11/15/02,High,<Null>,<Null>,0.002,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002003,0,148
+125912,Polygon Z,61496283,11/15/02,High,<Null>,<Null>,0.002,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00165,0,149
+134166,Polygon Z,61499489,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002006,0,150
+134377,Polygon Z,61496735,11/15/02,High,<Null>,<Null>,0.002,96,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001934,0,151
+134642,Polygon Z,61498081,11/15/02,High,<Null>,<Null>,0.002,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001717,0,152
+91295,Polygon Z,{D30C3E55-6BF3-4E73-8095-82A7A3A7C08D},10/16/12,High,<Null>,<Null>,0.002036,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002121,0,153
+65424,Polygon Z,{BF12FC0D-D88C-42E3-8029-8BAEA259FA4D},10/16/12,High,<Null>,<Null>,0.002095,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001915,0,154
+22450,Polygon Z,{CC06B80F-280D-43B0-838F-CA85B8D0632E},10/16/12,High,<Null>,<Null>,0.002261,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002136,0,155
+134289,Polygon Z,{F2C89F14-5E53-4854-9D13-92684BA0E1CC},10/16/12,High,<Null>,<Null>,0.002382,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002356,0,156
+91103,Polygon Z,{F9174877-DFF3-4980-B62A-40B591ACE86B},10/16/12,High,<Null>,<Null>,0.002384,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001893,0,157
+74058,Polygon Z,{7560A839-DA2D-424A-9646-67DF1C079B41},10/16/12,High,<Null>,<Null>,0.002393,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002496,0,158
+22603,Polygon Z,{CABA3EF8-6A31-4B0D-979C-2D93ACBB73C6},10/16/12,High,<Null>,<Null>,0.002424,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001831,0,159
+134253,Polygon Z,{090D9D87-94CC-464B-B4F1-8892DE6738C7},10/16/12,High,<Null>,<Null>,0.002444,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002101,0,160
+73762,Polygon Z,{C678AD60-89E7-415E-9F57-96AEE3D33E54},10/16/12,High,<Null>,<Null>,0.002457,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00195,0,161
+39816,Polygon Z,{F46D65FE-FDE4-4E81-8D25-969FB3DC42A3},10/16/12,High,<Null>,<Null>,0.002472,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001999,0,162
+65644,Polygon Z,{6F95C68E-77F6-40ED-965C-94AFE54B13C9},10/16/12,High,<Null>,<Null>,0.002526,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002538,0,163
+65182,Polygon Z,{56ABCF55-AD8C-426C-9DA2-F6A58330DC1A},10/16/12,High,<Null>,<Null>,0.002546,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001985,0,164
+13724,Polygon Z,{F970F5D5-25F3-4B1A-B396-04D31BFAA1D7},10/16/12,High,<Null>,<Null>,0.002592,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002288,0,165
+22294,Polygon Z,{761B0EF6-2CE7-4598-BA20-6B719164037E},10/16/12,High,<Null>,<Null>,0.002681,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003161,0,166
+5067,Polygon Z,{937958AD-760E-4980-BABE-BC91484BA1BA},10/16/12,High,<Null>,<Null>,0.00269,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002526,0,167
+65547,Polygon Z,{75BB9F9B-0209-4422-935C-C9B79050E221},10/16/12,High,<Null>,<Null>,0.00272,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002035,0,168
+125553,Polygon Z,{3B464D62-ACD5-4491-B6F1-ECFDFD11D24F},10/16/12,High,<Null>,<Null>,0.002723,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002343,0,169
+91297,Polygon Z,61496153,10/16/12,High,<Null>,<Null>,0.00273,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.002324,0,170
+117044,Polygon Z,{93C1EEB8-D47B-4067-B2F6-180C9C6A3F4D},10/16/12,High,<Null>,<Null>,0.002779,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002377,0,171
+82810,Polygon Z,61498703,10/16/12,High,<Null>,<Null>,0.002874,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00258,0,172
+125732,Polygon Z,{8673A068-7676-4E8C-8AD8-B4B426DC631F},10/16/12,High,<Null>,<Null>,0.00295,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002832,0,173
+48195,Polygon Z,7762cf27-dfc4-41ca-8dfd-4b273293b5c0,10/1/12,High,<Null>,<Null>,0.002963,<Null>,3.0102E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002075,0,174
+4873,Polygon Z,61498121,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002151,0,175
+4950,Polygon Z,61498885,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002744,0,176
+14073,Polygon Z,61496467,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002289,0,177
+22605,Polygon Z,61498627,11/15/02,High,<Null>,<Null>,0.003,89.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002131,0,178
+22707,Polygon Z,61498029,11/15/02,High,<Null>,<Null>,0.003,80.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002022,0,179
+22708,Polygon Z,61497997,11/15/02,High,<Null>,<Null>,0.003,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002243,0,180
+39454,Polygon Z,61498747,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002214,0,181
+39455,Polygon Z,61498573,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002508,0,182
+39529,Polygon Z,61500939,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002205,0,183
+39788,Polygon Z,61498813,11/15/02,High,<Null>,<Null>,0.003,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.001957,0,184
+47873,Polygon Z,61498587,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002584,0,185
+47943,Polygon Z,61497477,11/15/02,High,<Null>,<Null>,0.003,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002481,0,186
+48070,Polygon Z,61501013,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002281,0,187
+48233,Polygon Z,61498581,11/15/02,High,<Null>,<Null>,0.003,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00224,0,188
+56425,Polygon Z,61499753,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002668,0,189
+65450,Polygon Z,61496309,11/15/02,High,<Null>,<Null>,0.003,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00232,0,190
+73612,Polygon Z,61499745,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002101,0,191
+73836,Polygon Z,61497267,11/15/02,High,<Null>,<Null>,0.003,59.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002381,0,192
+73884,Polygon Z,61501005,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002149,0,193
+74101,Polygon Z,61495955,11/15/02,High,<Null>,<Null>,0.003,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002129,0,194
+74327,Polygon Z,61497057,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002178,0,195
+90906,Polygon Z,61499673,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00255,0,196
+91294,Polygon Z,61497637,11/15/02,High,<Null>,<Null>,0.003,74.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002365,0,197
+99776,Polygon Z,61500945,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002324,0,198
+99873,Polygon Z,61497827,11/15/02,High,<Null>,<Null>,0.003,65.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00217,0,199
+108148,Polygon Z,61497227,11/15/02,High,<Null>,<Null>,0.003,65.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002177,0,200
+126172,Polygon Z,61501019,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002052,0,201
+91336,Polygon Z,{60FAB24A-EEC5-41C4-97CE-6AE4BE239A41},10/16/12,High,<Null>,<Null>,0.00302,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002305,0,202
+56896,Polygon Z,{D72F8457-46A3-4295-8880-D7B4417AED20},10/16/12,High,<Null>,<Null>,0.003146,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002157,0,203
+30953,Polygon Z,{947FA6A7-A042-4CA8-A086-C76BCBD87EA5},10/16/12,High,<Null>,<Null>,0.003192,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002257,0,204
+13762,Polygon Z,{A83E39EA-051B-46C9-A236-46B68DAE39E1},10/16/12,High,<Null>,<Null>,0.003292,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00251,0,205
+39679,Polygon Z,{7FAC09CB-5946-491F-9C1A-1D26D18624E5},10/16/12,High,<Null>,<Null>,0.003403,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002426,0,206
+31269,Polygon Z,{74E38D71-D4ED-4351-B5A0-4AE78DEE5528},10/16/12,High,<Null>,<Null>,0.003697,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002861,0,207
+65543,Polygon Z,{0BBAA6C5-2C8D-48A0-9731-695D63791D97},10/16/12,High,<Null>,<Null>,0.003741,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00407,0,208
+13864,Polygon Z,61498967,10/16/12,High,<Null>,<Null>,0.003816,89.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002558,0,209
+5171,Polygon Z,61498895,11/15/02,High,<Null>,<Null>,0.004,89.3,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003566,0,210
+22293,Polygon Z,61498623,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002882,0,211
+31421,Polygon Z,61497159,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002418,0,212
+31422,Polygon Z,61497025,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002847,0,213
+39723,Polygon Z,61498547,11/15/02,High,<Null>,<Null>,0.004,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002496,0,214
+39790,Polygon Z,61497661,11/15/02,High,<Null>,<Null>,0.004,59.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002697,0,215
+48069,Polygon Z,61498617,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002516,0,216
+48072,Polygon Z,61501035,11/15/02,High,<Null>,<Null>,0.004,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002466,0,217
+65397,Polygon Z,61501067,11/15/02,High,<Null>,<Null>,0.004,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002259,0,218
+73835,Polygon Z,61497917,11/15/02,High,<Null>,<Null>,0.004,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002824,0,219
+91101,Polygon Z,61499217,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003157,0,220
+91104,Polygon Z,61497625,11/15/02,High,<Null>,<Null>,0.004,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00303,0,221
+99774,Polygon Z,61498951,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002557,0,222
+99842,Polygon Z,61501059,11/15/02,High,<Null>,<Null>,0.004,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003308,0,223
+100281,Polygon Z,61497759,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002533,0,224
+108103,Polygon Z,61497577,11/15/02,High,<Null>,<Null>,0.004,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002635,0,225
+108175,Polygon Z,61501011,11/15/02,High,<Null>,<Null>,0.004,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002535,0,226
+108283,Polygon Z,61495839,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002544,0,227
+116818,Polygon Z,61498979,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003051,0,228
+22606,Polygon Z,61498517,10/16/12,High,<Null>,<Null>,0.004005,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.002505,0,229
+125415,Polygon Z,{92B87F33-BF59-491F-979E-A07255B0B4A2},10/16/12,High,<Null>,<Null>,0.004117,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002782,0,230
+108146,Polygon Z,{A1372514-2DB6-446A-BE57-F8DB0AF8B835},10/16/12,High,<Null>,<Null>,0.004141,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002834,0,231
+125593,Polygon Z,{7B03C8F6-EB05-4021-BEBF-8C33094AAA3A},10/16/12,High,<Null>,<Null>,0.004273,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003044,0,232
+82697,Polygon Z,{8AA8CC6C-5191-4E58-BECD-EEE12BB0ABF7},10/16/12,High,<Null>,<Null>,0.004301,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003034,0,233
+108174,Polygon Z,61498475,10/16/12,High,<Null>,<Null>,0.004337,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002924,0,234
+108319,Polygon Z,{37FF6238-9591-4403-B8C1-03C816B44BB6},10/16/12,High,<Null>,<Null>,0.004486,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.002772,0,235
+48197,Polygon Z,{11461E41-C5A6-4B1E-8708-75E437729C52},10/16/12,High,<Null>,<Null>,0.004606,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002726,0,236
+73966,Polygon Z,{6AE3912D-BF77-4774-A9E3-28EE47E01DC2},10/16/12,High,<Null>,<Null>,0.004945,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002951,0.000001,237
+4762,Polygon Z,61499533,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003869,0.000001,238
+22341,Polygon Z,61497553,11/15/02,High,<Null>,<Null>,0.005,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003166,0.000001,239
+30918,Polygon Z,61500889,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002796,0.000001,240
+31456,Polygon Z,61497131,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003107,0,241
+31497,Polygon Z,61497481,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002957,0.000001,242
+39237,Polygon Z,61499727,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002681,0,243
+40034,Polygon Z,61497487,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003572,0,244
+56584,Polygon Z,61498233,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002935,0,245
+56611,Polygon Z,61497819,11/15/02,High,<Null>,<Null>,0.005,93,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003075,0.000001,246
+56676,Polygon Z,61498567,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003146,0.000001,247
+56744,Polygon Z,61498223,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003111,0.000001,248
+73885,Polygon Z,61500941,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003196,0.000001,249
+82560,Polygon Z,61500881,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002635,0.000001,250
+82841,Polygon Z,61498521,11/15/02,High,<Null>,<Null>,0.005,80.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003067,0.000001,251
+91102,Polygon Z,61497965,11/15/02,High,<Null>,<Null>,0.005,93,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.002672,0,252
+91592,Polygon Z,61497041,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002773,0,253
+108244,Polygon Z,61501329,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002603,0,254
+116819,Polygon Z,61498741,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002894,0.000001,255
+117186,Polygon Z,61496305,11/15/02,High,<Null>,<Null>,0.005,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003381,0.000001,256
+125670,Polygon Z,61498569,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002785,0,257
+125836,Polygon Z,61498727,11/15/02,High,<Null>,<Null>,0.005,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003393,0,258
+134167,Polygon Z,61499105,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002993,0.000001,259
+134290,Polygon Z,61500931,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002811,0,260
+134376,Polygon Z,61500997,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003553,0.000001,261
+65144,Polygon Z,{89C4F984-3BCA-4C97-B7D1-4F9CA49D9EC3},10/16/12,High,<Null>,<Null>,0.005079,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003487,0.000001,262
+117158,Polygon Z,{605FCCFF-4D8D-40FC-8687-28F836CFA8E5},10/16/12,High,<Null>,<Null>,0.005202,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003612,0.000001,263
+117101,Polygon Z,{30813656-AC16-4DA5-9FD6-619ABB711EE6},10/16/12,High,<Null>,<Null>,0.005225,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003978,0.000001,264
+125878,Polygon Z,{9DBC663D-B356-4896-9EBF-1320A52EB2C7},10/16/12,High,<Null>,<Null>,0.005374,62.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003936,0.000001,265
+5104,Polygon Z,{D3C64741-E9A0-42ED-950A-8C1C6333E5CF},10/16/12,High,<Null>,<Null>,0.005694,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003604,0.000001,266
+4793,Polygon Z,61499031,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003186,0.000001,267
+13966,Polygon Z,61498359,11/15/02,High,<Null>,<Null>,0.006,80.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.00291,0.000001,268
+22913,Polygon Z,61497865,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003168,0.000001,269
+30781,Polygon Z,61499041,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003081,0.000001,270
+47942,Polygon Z,61498601,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003251,0.000001,271
+48097,Polygon Z,61501085,11/15/02,High,<Null>,<Null>,0.006,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002952,0.000001,272
+48415,Polygon Z,61496705,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003032,0.000001,273
+48453,Polygon Z,61497089,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003073,0.000001,274
+56610,Polygon Z,61498843,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003686,0.000001,275
+74287,Polygon Z,61497293,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003495,0.000001,276
+82558,Polygon Z,61497839,11/15/02,High,<Null>,<Null>,0.006,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003136,0.000001,277
+91407,Polygon Z,61498749,11/15/02,High,<Null>,<Null>,0.006,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003497,0.000001,278
+100172,Polygon Z,61497081,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003082,0.000001,279
+125699,Polygon Z,61500457,11/15/02,High,<Null>,<Null>,0.006,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.002938,0.000001,280
+134030,Polygon Z,61499701,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004104,0.000001,281
+82915,Polygon Z,61500669,10/16/12,High,<Null>,<Null>,0.006126,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003328,0.000001,282
+117185,Polygon Z,61498651,10/16/12,High,<Null>,<Null>,0.006721,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.004206,0.000001,283
+117100,Polygon Z,{012CF0F4-F4B7-4B97-9550-BF358E460E49},10/16/12,High,<Null>,<Null>,0.006731,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003999,0.000001,284
+39789,Polygon Z,{C92D80BF-0C4A-475F-9475-91AF69AA5552},10/16/12,High,<Null>,<Null>,0.006852,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003566,0.000001,285
+48196,Polygon Z,{F7C92165-E392-4BD5-9860-641C9DE37074},10/16/12,High,<Null>,<Null>,0.006897,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004093,0.000001,286
+31032,Polygon Z,{B8C17406-7F6B-466C-90FF-3346D3A70B74},10/16/12,High,<Null>,<Null>,0.00697,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004186,0.000001,287
+13483,Polygon Z,61499379,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00365,0.000001,288
+22532,Polygon Z,61496377,11/15/02,High,<Null>,<Null>,0.007,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003386,0.000001,289
+39854,Polygon Z,61496797,11/15/02,High,1468565,Ivys Ponds,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004446,0.000001,290
+65112,Polygon Z,61499747,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003827,0.000001,291
+65545,Polygon Z,61498689,11/15/02,High,<Null>,<Null>,0.007,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003449,0.000001,292
+65790,Polygon Z,61497029,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00442,0.000001,293
+74138,Polygon Z,61498289,11/15/02,High,<Null>,<Null>,0.007,80.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003551,0.000001,294
+82559,Polygon Z,61497893,11/15/02,High,<Null>,<Null>,0.007,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004377,0.000001,295
+107936,Polygon Z,61499603,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004104,0.000001,296
+116896,Polygon Z,61497599,11/15/02,High,<Null>,<Null>,0.007,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003289,0.000001,297
+117260,Polygon Z,61497315,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003372,0.000001,298
+125802,Polygon Z,61496157,11/15/02,High,<Null>,<Null>,0.007,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003862,0.000001,299
+125837,Polygon Z,61498553,11/15/02,High,<Null>,<Null>,0.007,84.1,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003629,0.000001,300
+125911,Polygon Z,61497761,11/15/02,High,<Null>,<Null>,0.007,64.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003589,0.000001,301
+134197,Polygon Z,61498339,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003906,0.000001,302
+22602,Polygon Z,61498753,10/16/12,High,<Null>,<Null>,0.007187,89.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003651,0.000001,303
+48384,Polygon Z,61497871,10/16/12,High,<Null>,<Null>,0.007256,66.1,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003206,0.000001,304
+100040,Polygon Z,{F3AF5CE8-8A98-46DD-A0E7-FBBB7326DDA1},10/16/12,High,<Null>,<Null>,0.007475,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.005806,0.000001,305
+65643,Polygon Z,{43C169B2-6CE4-4B88-B834-0F88DA35C168},10/16/12,High,<Null>,<Null>,0.007484,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004518,0.000001,306
+65034,Polygon Z,{75C6595D-F6B6-47DC-AFC4-1F92AA6E0CB3},10/16/12,High,<Null>,<Null>,0.007819,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004708,0.000001,307
+56548,Polygon Z,{389D7A70-A5E0-4248-A2D5-3829D8AD3564},10/16/12,High,<Null>,<Null>,0.007993,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003515,0.000001,308
+13967,Polygon Z,61497663,11/15/02,High,<Null>,<Null>,0.008,59.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003271,0.000001,309
+31267,Polygon Z,61498763,11/15/02,High,<Null>,<Null>,0.008,80.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004514,0.000001,310
+39753,Polygon Z,61498801,11/15/02,High,<Null>,<Null>,0.008,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004627,0.000001,311
+74401,Polygon Z,61497485,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004094,0.000001,312
+100280,Polygon Z,61497843,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004128,0.000001,313
+108486,Polygon Z,135960689,6/3/05 5:29,High,<Null>,<Null>,0.008,<Null>,3.0102E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004379,0.000001,314
+108624,Polygon Z,61498079,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004033,0.000001,315
+125637,Polygon Z,61501147,11/15/02,High,<Null>,<Null>,0.008,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003342,0.000001,316
+125639,Polygon Z,61500973,11/15/02,High,<Null>,<Null>,0.008,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.00587,0.000001,317
+125733,Polygon Z,61497657,11/15/02,High,<Null>,<Null>,0.008,53.3,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004078,0.000001,318
+91143,Polygon Z,61499337,10/16/12,High,<Null>,<Null>,0.008207,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.003687,0.000001,319
+82951,Polygon Z,{495AD963-0BFA-435D-84E3-491B84BA1B1E},10/16/12,High,<Null>,<Null>,0.008958,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005111,0.000001,320
+4917,Polygon Z,{4D5F83D0-A9BE-43E5-999D-8F8E9E974280},10/16/12,High,<Null>,<Null>,0.008977,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.004642,0.000001,321
+4915,Polygon Z,61499247,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003715,0.000001,322
+13431,Polygon Z,61499717,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004372,0.000001,323
+22269,Polygon Z,61499167,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005072,0.000001,324
+22531,Polygon Z,61496439,11/15/02,High,<Null>,<Null>,0.009,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004593,0.000001,325
+30917,Polygon Z,61499461,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004756,0.000001,326
+31457,Polygon Z,61497013,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003747,0.000001,327
+99978,Polygon Z,61498519,11/15/02,High,<Null>,<Null>,0.009,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.003796,0.000001,328
+108449,Polygon Z,61497793,11/15/02,High,<Null>,<Null>,0.009,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004908,0.000001,329
+126110,Polygon Z,61498083,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004874,0.000001,330
+5204,Polygon Z,{F4F89D22-BB8A-4745-BDF8-C4583ED7F81F},10/16/12,High,<Null>,<Null>,0.009012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.005324,0.000001,331
+65396,Polygon Z,{1644AC2A-3409-41BF-885A-9AB0FE9B49CF},10/16/12,High,<Null>,<Null>,0.009117,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004386,0.000001,332
+65546,Polygon Z,{DD620322-9786-4FEE-A026-FAA52C4F341C},10/16/12,High,<Null>,<Null>,0.009582,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004369,0.000001,333
+108280,Polygon Z,{F17443A8-7DAE-4B37-B9BA-9FAEEA6EF160},10/16/12,High,<Null>,<Null>,0.009763,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004675,0.000001,334
+22670,Polygon Z,{1F25C06B-50E2-4659-A602-63EF7BEE24BA},10/16/12,High,<Null>,<Null>,0.009948,62.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004786,0.000001,335
+4764,Polygon Z,61499145,11/15/02,High,<Null>,<Null>,0.01,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004755,0.000001,336
+65544,Polygon Z,61498917,11/15/02,High,<Null>,<Null>,0.01,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005256,0.000001,337
+99841,Polygon Z,61501245,11/15/02,High,<Null>,<Null>,0.01,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004443,0.000001,338
+108343,Polygon Z,61497545,11/15/02,High,<Null>,<Null>,0.01,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004792,0.000001,339
+108556,Polygon Z,61496835,11/15/02,High,<Null>,<Null>,0.01,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00483,0.000001,340
+117043,Polygon Z,61498329,11/15/02,High,<Null>,<Null>,0.01,74.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004513,0.000001,341
+22533,Polygon Z,{19757587-AC3C-45A5-9153-53D9D2BBC7B3},10/16/12,High,<Null>,<Null>,0.010054,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005342,0.000001,342
+13787,Polygon Z,{3EBDEF8D-1C65-4989-9CDA-3B228AFF2E2E},10/16/12,High,<Null>,<Null>,0.010136,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.006116,0.000001,343
+99874,Polygon Z,{BCDCF721-08CB-4BF3-B817-A03736FD5C29},10/16/12,High,<Null>,<Null>,0.010627,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.009206,0.000001,344
+74100,Polygon Z,61498715,10/16/12,High,<Null>,<Null>,0.010977,84.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004557,0.000001,345
+31388,Polygon Z,61496753,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005123,0.000001,346
+48098,Polygon Z,61497593,11/15/02,High,<Null>,<Null>,0.011,53.3,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004444,0.000001,347
+82503,Polygon Z,61498143,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004204,0.000001,348
+99551,Polygon Z,61499409,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004511,0.000001,349
+100011,Polygon Z,61498871,11/15/02,High,<Null>,<Null>,0.011,81.4,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004535,0.000001,350
+108211,Polygon Z,61499305,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004607,0.000001,351
+117131,Polygon Z,61498803,11/15/02,High,<Null>,<Null>,0.011,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.004931,0.000001,352
+134536,Polygon Z,61498421,11/15/02,High,<Null>,<Null>,0.011,83.8,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005357,0.000001,353
+48267,Polygon Z,61498297,10/16/12,High,<Null>,<Null>,0.011075,80.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005405,0.000001,354
+39498,Polygon Z,{5282F5A0-F447-4AAC-A8D1-68B0E502C43D},10/16/12,High,<Null>,<Null>,0.011236,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.005064,0.000001,355
+48071,Polygon Z,{79253B73-0022-4BC7-944F-20A8C9E76C5B},10/16/12,High,<Null>,<Null>,0.011477,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006102,0.000001,356
+31266,Polygon Z,61498815,11/15/02,High,<Null>,<Null>,0.012,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005017,0.000001,357
+65752,Polygon Z,61497777,11/15/02,High,<Null>,<Null>,0.012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006158,0.000001,358
+125879,Polygon Z,61496213,11/15/02,High,<Null>,<Null>,0.012,77.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005597,0.000001,359
+134407,Polygon Z,61499025,11/15/02,High,<Null>,<Null>,0.012,74.7,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.007474,0.000001,360
+5263,Polygon Z,{E43C8A5B-5D49-43FF-BAEB-9AB0B2806464},10/16/12,High,<Null>,<Null>,0.012088,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005403,0.000001,361
+39817,Polygon Z,{4BB6503E-4DDD-4D09-8CBC-988B2B058897},10/16/12,High,<Null>,<Null>,0.012393,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005729,0.000001,362
+108282,Polygon Z,{B296E1FC-41C5-48F5-9AB6-D6C94EF05C7E},10/16/12,High,<Null>,<Null>,0.012733,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006974,0.000001,363
+47843,Polygon Z,61499653,11/15/02,High,<Null>,<Null>,0.013,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00541,0.000001,364
+74137,Polygon Z,61498817,11/15/02,High,<Null>,<Null>,0.013,89.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.006218,0.000001,365
+82634,Polygon Z,61501079,11/15/02,High,<Null>,<Null>,0.013,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.00555,0.000001,366
+82808,Polygon Z,61498807,11/15/02,High,<Null>,<Null>,0.013,93,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005601,0.000001,367
+117132,Polygon Z,61498593,11/15/02,High,<Null>,<Null>,0.013,71.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.006247,0.000001,368
+108245,Polygon Z,{37453293-6870-474F-98AE-1330194EFA87},10/16/12,High,<Null>,<Null>,0.013556,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006302,0.000001,369
+108521,Polygon Z,61498341,11/15/02,High,<Null>,<Null>,0.014,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006846,0.000001,370
+22731,Polygon Z,{6ECD7E9E-B1FE-45C9-A50A-4592E5177D64},10/16/12,High,<Null>,<Null>,0.014055,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005963,0.000001,371
+39755,Polygon Z,{937CAFE6-4EF8-40FB-94E7-40DA075A17F1},10/16/12,High,<Null>,<Null>,0.014136,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005476,0.000001,372
+39754,Polygon Z,61498761,10/16/12,High,<Null>,<Null>,0.014631,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.008061,0.000001,373
+5264,Polygon Z,61496763,11/15/02,High,<Null>,<Null>,0.015,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006321,0.000002,374
+22487,Polygon Z,61500679,11/15/02,High,<Null>,<Null>,0.015,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.005201,0.000002,375
+48266,Polygon Z,61498737,11/15/02,High,<Null>,<Null>,0.015,72.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.005265,0.000001,376
+82696,Polygon Z,{F1D3D25C-3978-4EB0-99E5-1D703E768911},10/16/12,High,<Null>,<Null>,0.015791,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005533,0.000002,377
+56677,Polygon Z,61500979,11/15/02,High,<Null>,<Null>,0.016,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008062,0.000002,378
+117004,Polygon Z,61500897,11/15/02,High,<Null>,<Null>,0.016,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.005513,0.000002,379
+56743,Polygon Z,{67CE5050-B4D6-490A-B05A-B3CB17645459},10/16/12,High,<Null>,<Null>,0.016475,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007043,0.000002,380
+4874,Polygon Z,61500911,11/15/02,High,<Null>,<Null>,0.017,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.007655,0.000002,381
+22074,Polygon Z,61499719,11/15/02,High,<Null>,<Null>,0.017,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006798,0.000002,382
+40033,Polygon Z,61497725,11/15/02,High,<Null>,<Null>,0.017,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006461,0.000002,383
+22732,Polygon Z,61497647,11/15/02,High,<Null>,<Null>,0.018,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.007371,0.000002,384
+5135,Polygon Z,{6A5A38AE-09D9-42E0-A280-E27495DC1B29},10/16/12,High,<Null>,<Null>,0.018479,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006313,0.000002,385
+82953,Polygon Z,{55E5D6D5-FF0E-4C95-A92E-C68DC1CE978C},10/16/12,High,<Null>,<Null>,0.019436,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007141,0.000002,386
+108281,Polygon Z,{5F61E5CC-2256-4794-9317-64259082D32C},10/16/12,High,<Null>,<Null>,0.019552,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006724,0.000002,387
+73997,Polygon Z,{2138D0F1-CCD8-4BCD-93CF-30A2FFB3CEFC},10/16/12,High,<Null>,<Null>,0.02087,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007306,0.000002,388
+107972,Polygon Z,61499339,11/15/02,High,<Null>,<Null>,0.021,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.009335,0.000002,389
+5066,Polygon Z,61499203,11/15/02,High,<Null>,<Null>,0.022,86.9,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.007591,0.000002,390
+74210,Polygon Z,61497899,10/16/12,High,<Null>,<Null>,0.022544,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.007717,0.000002,391
+91337,Polygon Z,{23151E3C-E285-49E7-A771-20C67D634CBD},10/16/12,High,<Null>,<Null>,0.02255,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005673,0.000002,392
+56711,Polygon Z,{1DEB26AC-2A2C-45A8-B764-8B4320E3A565},10/16/12,High,<Null>,<Null>,0.023792,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.010586,0.000002,393
+31268,Polygon Z,61498723,10/16/12,High,<Null>,<Null>,0.025437,80.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.007694,0.000003,394
+5239,Polygon Z,61498097,11/15/02,High,<Null>,<Null>,0.027,68.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.008767,0.000003,395
+74209,Polygon Z,61498477,11/15/02,High,<Null>,<Null>,0.028,71.6,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.009462,0.000003,396
+30954,Polygon Z,61500933,11/15/02,High,<Null>,<Null>,0.029,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.012216,0.000003,397
+39591,Polygon Z,61501001,11/15/02,High,<Null>,<Null>,0.029,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.014879,0.000003,398
+39590,Polygon Z,61501065,11/15/02,High,<Null>,<Null>,0.03,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.010214,0.000003,399
+39563,Polygon Z,{CFA4E1B4-AB26-40BE-88CE-F1EF116A7C1D},10/16/12,High,<Null>,<Null>,0.030264,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Intermittent,Unspecified,0.009129,0.000003,400
+73837,Polygon Z,61500943,10/16/12,High,<Null>,<Null>,0.030573,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.011285,0.000003,401
+134468,Polygon Z,61498503,11/15/02,High,1489609,Eades Pond,0.031,65.2,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.009593,0.000003,402
+74208,Polygon Z,{53AC5F56-B5FD-4C1A-8FFC-722952ED070D},10/16/12,High,<Null>,<Null>,0.032054,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.010209,0.000003,403
+91027,Polygon Z,61498837,10/16/12,High,<Null>,<Null>,0.032768,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.011367,0.000003,404
+99909,Polygon Z,61496207,10/16/12,High,<Null>,<Null>,0.035052,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.009303,0.000004,405
+91296,Polygon Z,61496257,10/16/12,High,<Null>,<Null>,0.035912,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.011023,0.000004,406
+4918,Polygon Z,61501015,11/15/02,High,<Null>,<Null>,0.038,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008733,0.000004,407
+56817,Polygon Z,{283CB01A-1B6E-4DDA-BC53-F0BA98B13370},10/16/12,High,<Null>,<Null>,0.041323,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.009162,0.000004,408
+39530,Polygon Z,61500989,11/15/02,High,<Null>,<Null>,0.048,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.017683,0.000005,409
+13899,Polygon Z,61496243,11/15/02,High,<Null>,<Null>,0.051,62.5,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.017467,0.000005,410
+99875,Polygon Z,61500689,10/16/12,High,<Null>,<Null>,0.055295,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.015796,0.000006,411
+108246,Polygon Z,{1AAD02CD-2636-4CFF-AF3B-295CE1E11BD1},10/16/12,High,<Null>,<Null>,0.058225,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.012807,0.000006,412
+65399,Polygon Z,{2785C3AD-4C59-46D1-BC72-E17AD3E40A1D},10/16/12,High,<Null>,<Null>,0.062552,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.019596,0.000006,413
+65113,Polygon Z,61501345,11/15/02,High,<Null>,<Null>,0.065,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.013415,0.000007,414
+22486,Polygon Z,61500691,11/15/02,High,<Null>,<Null>,0.067,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.011847,0.000007,415
+13761,Polygon Z,{61FC80B2-9047-431B-A15A-787B72E6CD0C},10/16/12,High,<Null>,<Null>,0.070508,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.018465,0.000007,416
+116747,Polygon Z,61499407,5/1/13,High,1468084,Hobbs Millpond,0.084809,<Null>,2.08021E+12,Reservoir,Reservoir,Unspecified,0.020197,0.000009,417
+65362,Polygon Z,{C2B23D96-8DFE-424B-B1FF-D98373091844},10/16/12,High,<Null>,<Null>,0.089428,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.022974,0.000009,418
+13543,Polygon Z,61501311,11/15/02,High,<Null>,<Null>,0.094,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.020036,0.000009,419
+82635,Polygon Z,{0B32D228-C74A-4D54-8BBD-207ABBB0B44E},10/16/12,High,<Null>,<Null>,0.118187,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.023435,0.000012,420
+134375,Polygon Z,61501241,11/15/02,High,<Null>,<Null>,0.145,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.028151,0.000015,421
+134288,Polygon Z,61500999,10/16/12,High,<Null>,<Null>,0.161605,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.023264,0.000016,422
+73965,Polygon Z,61501227,10/16/12,High,<Null>,<Null>,0.171867,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.019243,0.000017,423
+65398,Polygon Z,61501071,10/16/12,High,<Null>,<Null>,0.172881,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.034317,0.000018,424
+82695,Polygon Z,61501215,10/16/12,High,<Null>,<Null>,0.183535,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.033842,0.000019,425
+82666,Polygon Z,{5DAF70EB-E16E-4BE3-82EC-F6E889B39091},10/16/12,High,<Null>,<Null>,0.184751,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.020036,0.000019,426
+22488,Polygon Z,{4F5553F0-971E-4FA3-A1CD-35F37C882273},10/16/12,High,<Null>,<Null>,0.220132,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.036135,0.000022,427
+125698,Polygon Z,{C08AB279-84C4-4DA2-917D-E255975B8147},10/16/12,High,<Null>,<Null>,0.221258,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.068904,0.000022,428
+86299,Polygon Z,{063DA7A5-FE4D-4BB5-83EE-65CCD3237F51},10/16/12,High,<Null>,<Null>,0.396642,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.092767,0.00004,429
+8,Polygon Z,61501309,10/16/12,High,<Null>,<Null>,0.402832,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.065849,0.000041,430
+56857,Polygon Z,{A4179DB4-388E-4D05-A6B8-14CCB042C192},10/16/12,High,<Null>,<Null>,0.441362,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.049928,0.000045,431
+86300,Polygon Z,61498497,10/16/12,High,<Null>,<Null>,0.451506,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.135014,0.000046,432
+8714,Polygon Z,61501143,10/16/12,High,<Null>,<Null>,0.50686,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.054154,0.000051,433
+129317,Polygon Z,61497627,5/1/13,High,1474230,Lake Chesdin,12.216267,48.2,2.08021E+12,Reservoir,Reservoir,Unspecified,1.273711,0.001241,434

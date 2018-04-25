@@ -1,0 +1,380 @@
+﻿OBJECTID,Shape,Permanent_Identifier,FDate,Resolution,GNIS_ID,GNIS_Name,AreaSqKm,Elevation,ReachCode,FType,FCode,VisibilityFilter,Shape_Length,Shape_Area,Rank
+5810,Polygon Z,61496979,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000627,0,1
+14464,Polygon Z,61498035,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000553,0,2
+14524,Polygon Z,61496043,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.000812,0,3
+14562,Polygon Z,61497007,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000729,0,4
+23116,Polygon Z,61496777,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000867,0,5
+23270,Polygon Z,61496975,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000728,0,6
+23273,Polygon Z,61496511,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001152,0,7
+31844,Polygon Z,61496985,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001104,0,8
+40109,Polygon Z,135972664,7/30/10 6:29,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000761,0,9
+48848,Polygon Z,61496923,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000709,0,10
+48958,Polygon Z,61496989,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000717,0,11
+57589,Polygon Z,61497003,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00065,0,12
+74786,Polygon Z,61496999,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000722,0,13
+74787,Polygon Z,61496973,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000841,0,14
+83475,Polygon Z,61496965,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00084,0,15
+83476,Polygon Z,61496977,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000844,0,16
+91997,Polygon Z,61496697,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.000849,0,17
+92038,Polygon Z,61496963,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00084,0,18
+100616,Polygon Z,61496693,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.000919,0,19
+109045,Polygon Z,61496009,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000875,0,20
+109078,Polygon Z,61496959,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000617,0,21
+109079,Polygon Z,61496987,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00083,0,22
+135180,Polygon Z,61496995,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000834,0,23
+135181,Polygon Z,61496967,11/15/02,High,<Null>,<Null>,0,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000637,0,24
+126461,Polygon Z,61497895,10/16/12,High,<Null>,<Null>,0.000708,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Intermittent,Unspecified,0.001463,0,25
+23398,Polygon Z,{A86202A7-D46F-466C-B43D-BD3E74F7739D},10/16/12,High,<Null>,<Null>,0.000774,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001152,0,26
+100645,Polygon Z,{DA7AD28F-CAC1-42C4-A9B6-FC261CEDC36C},10/16/12,High,<Null>,<Null>,0.000957,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001121,0,27
+5696,Polygon Z,61497277,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001467,0,28
+5779,Polygon Z,61495793,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001011,0,29
+5871,Polygon Z,61497187,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001326,0,30
+14296,Polygon Z,135972666,7/30/10 6:29,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001009,0,31
+14433,Polygon Z,61496935,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001333,0,32
+14465,Polygon Z,61497719,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001922,0,33
+14466,Polygon Z,61497281,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001282,0,34
+14467,Polygon Z,61497329,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001498,0,35
+14468,Polygon Z,61497289,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001389,0,36
+14469,Polygon Z,61497327,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001152,0,37
+14470,Polygon Z,61497353,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001059,0,38
+14637,Polygon Z,61496801,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000998,0,39
+14638,Polygon Z,61496539,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001238,0,40
+23009,Polygon Z,61498199,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001536,0,41
+23142,Polygon Z,61497791,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001082,0,42
+23175,Polygon Z,61497305,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001455,0,43
+23176,Polygon Z,61497325,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001152,0,44
+23177,Polygon Z,61497341,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000969,0,45
+23271,Polygon Z,61496955,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001068,0,46
+31631,Polygon Z,61498195,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001339,0,47
+31773,Polygon Z,61497303,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00099,0,48
+31774,Polygon Z,61497375,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001031,0,49
+31775,Polygon Z,61497283,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001446,0,50
+31776,Polygon Z,61497265,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00129,0,51
+40111,Polygon Z,135972711,7/30/10 6:29,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001508,0,52
+40267,Polygon Z,61497273,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001076,0,53
+40268,Polygon Z,61497247,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00114,0,54
+40269,Polygon Z,61497345,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001024,0,55
+40378,Polygon Z,61496961,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001015,0,56
+48704,Polygon Z,61498021,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00132,0,57
+48775,Polygon Z,61496775,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001816,0,58
+48843,Polygon Z,61497347,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001243,0,59
+48844,Polygon Z,61497317,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001439,0,60
+48845,Polygon Z,61497337,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001435,0,61
+48846,Polygon Z,61497271,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001175,0,62
+48849,Polygon Z,61496643,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001238,0,63
+57495,Polygon Z,61497285,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00125,0,64
+57496,Polygon Z,61497319,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001137,0,65
+57497,Polygon Z,61496767,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001242,0,66
+57498,Polygon Z,61495749,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001451,0,67
+57687,Polygon Z,61495865,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001359,0,68
+66134,Polygon Z,61497349,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001143,0,69
+66135,Polygon Z,61497263,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00106,0,70
+66136,Polygon Z,61497307,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001518,0,71
+66137,Polygon Z,61497363,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001113,0,72
+66205,Polygon Z,61496993,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001269,0,73
+74577,Polygon Z,61497675,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001498,0,74
+74684,Polygon Z,61497299,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001055,0,75
+74685,Polygon Z,61497383,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00101,0,76
+74686,Polygon Z,61497367,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001093,0,77
+74687,Polygon Z,61497251,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001179,0,78
+74788,Polygon Z,61496031,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001448,0,79
+74852,Polygon Z,61496747,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001266,0,80
+83275,Polygon Z,61498231,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001744,0,81
+83351,Polygon Z,61498007,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001396,0,82
+83385,Polygon Z,61497323,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001158,0,83
+83386,Polygon Z,61497291,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001068,0,84
+83387,Polygon Z,61497287,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000987,0,85
+91806,Polygon Z,61497821,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001166,0,86
+91880,Polygon Z,61496811,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001585,0,87
+91948,Polygon Z,61497295,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001448,0,88
+91949,Polygon Z,61497243,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00115,0,89
+100473,Polygon Z,61497941,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001216,0,90
+100474,Polygon Z,61497935,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001695,0,91
+100475,Polygon Z,61496819,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001007,0,92
+100476,Polygon Z,61495813,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001417,0,93
+100541,Polygon Z,61497377,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001167,0,94
+100542,Polygon Z,61497351,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001099,0,95
+100543,Polygon Z,61497279,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001129,0,96
+100572,Polygon Z,61496059,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000986,0,97
+108894,Polygon Z,61498247,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001242,0,98
+108972,Polygon Z,61497255,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001197,0,99
+108973,Polygon Z,61497313,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001421,0,100
+108974,Polygon Z,61497333,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001188,0,101
+108975,Polygon Z,61497301,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001532,0,102
+108976,Polygon Z,61497253,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001035,0,103
+108977,Polygon Z,61497239,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001183,0,104
+117536,Polygon Z,135972633,7/30/10 6:29,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001074,0,105
+117576,Polygon Z,61496951,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001345,0,106
+117645,Polygon Z,61497489,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001655,0,107
+117708,Polygon Z,61497369,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001104,0,108
+117709,Polygon Z,61497309,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001358,0,109
+117710,Polygon Z,61497261,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001301,0,110
+117711,Polygon Z,61497339,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001179,0,111
+117854,Polygon Z,61496759,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001284,0,112
+118627,Polygon Z,61497001,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001273,0,113
+118632,Polygon Z,135653495,7/30/10 6:29,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001526,0,114
+126396,Polygon Z,61498027,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001197,0,115
+126397,Polygon Z,61497371,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001058,0,116
+126398,Polygon Z,61497249,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001032,0,117
+126460,Polygon Z,61498019,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002094,0,118
+126722,Polygon Z,61497259,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.000999,0,119
+126723,Polygon Z,61496057,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.001164,0,120
+135076,Polygon Z,61497275,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001283,0,121
+135077,Polygon Z,61497379,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001023,0,122
+135078,Polygon Z,61497361,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00141,0,123
+135079,Polygon Z,61497365,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.00105,0,124
+135080,Polygon Z,61497297,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001359,0,125
+135108,Polygon Z,61495631,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001208,0,126
+135182,Polygon Z,61496957,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001087,0,127
+135184,Polygon Z,61496731,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001152,0,128
+135214,Polygon Z,61497515,11/15/02,High,<Null>,<Null>,0.001,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001777,0,129
+49042,Polygon Z,{3F498593-3973-4B48-887D-63E20A0240E5},10/16/12,High,<Null>,<Null>,0.001205,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.001628,0,130
+83582,Polygon Z,{8D9BB322-F752-4233-B89C-F8DD9CEEC69A},10/16/12,High,<Null>,<Null>,0.001341,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001647,0,131
+83553,Polygon Z,{8894B519-271B-41DE-B1D1-64EAEF589F04},10/16/12,High,<Null>,<Null>,0.001366,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.001638,0,132
+31987,Polygon Z,{475832CF-6779-4E60-AE17-8866B59BE086},10/16/12,High,<Null>,<Null>,0.001374,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.001498,0,133
+126638,Polygon Z,{0F3BFAA5-7E53-476A-80F9-4C05B6F20467},10/16/12,High,<Null>,<Null>,0.0014,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00151,0,134
+66344,Polygon Z,{01C9EDFB-E305-4BF1-8431-49139114CC24},10/16/12,High,<Null>,<Null>,0.001403,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001768,0,135
+126637,Polygon Z,{4F1B9456-C6D5-4EBE-A34F-03859FECB69D},10/16/12,High,<Null>,<Null>,0.00172,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001565,0,136
+134974,Polygon Z,61498145,10/16/12,High,<Null>,<Null>,0.00191,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001669,0,137
+5581,Polygon Z,61497903,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001517,0,138
+14403,Polygon Z,61497617,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001668,0,139
+14434,Polygon Z,61496843,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001739,0,140
+14561,Polygon Z,61497529,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001816,0,141
+14598,Polygon Z,61497427,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001936,0,142
+14699,Polygon Z,135653629,7/30/10 6:29,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001751,0,143
+23145,Polygon Z,61495893,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002266,0,144
+31632,Polygon Z,61497927,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001941,0,145
+40205,Polygon Z,61498317,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001718,0,146
+48817,Polygon Z,61497141,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002954,0,147
+48818,Polygon Z,61496939,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002141,0,148
+48847,Polygon Z,61500883,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001899,0,149
+49041,Polygon Z,61496585,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001839,0,150
+57380,Polygon Z,135972640,7/30/10 6:29,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001728,0,151
+57592,Polygon Z,61495951,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002332,0,152
+66064,Polygon Z,61498357,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002138,0,153
+66316,Polygon Z,61496521,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001879,0,154
+83405,Polygon Z,61495763,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001886,0,155
+83510,Polygon Z,61497429,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001826,0,156
+83552,Polygon Z,61496557,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002084,0,157
+91808,Polygon Z,61500901,11/15/02,High,<Null>,<Null>,0.002,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001787,0,158
+91947,Polygon Z,61497321,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.001607,0,159
+92164,Polygon Z,61496419,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001487,0,160
+100438,Polygon Z,61497417,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001678,0,161
+108939,Polygon Z,61497883,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002079,0,162
+108971,Polygon Z,61498065,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002297,0,163
+108979,Polygon Z,61495821,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002193,0,164
+117750,Polygon Z,61495971,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001709,0,165
+126332,Polygon Z,61497573,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001635,0,166
+126373,Polygon Z,61496703,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002214,0,167
+126399,Polygon Z,61495935,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001807,0,168
+126728,Polygon Z,135653565,7/30/10 6:29,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001975,0,169
+135048,Polygon Z,61497099,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.001914,0,170
+135082,Polygon Z,61495867,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002387,0,171
+135183,Polygon Z,61496781,11/15/02,High,<Null>,<Null>,0.002,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003122,0,172
+135253,Polygon Z,{8504CB57-EE76-444D-A2A8-6DE7B15EEFF4},10/16/12,High,<Null>,<Null>,0.00213,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.002601,0,173
+83583,Polygon Z,{0B121770-03E0-4218-8640-F5FC932D6AE3},10/16/12,High,<Null>,<Null>,0.002347,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.002162,0,174
+23010,Polygon Z,{4145995B-3075-4081-B576-86DE095E5740},10/16/12,High,<Null>,<Null>,0.00249,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002099,0,175
+109189,Polygon Z,{DDCB4573-F603-453D-A5CA-A56FBA1F189F},10/16/12,High,<Null>,<Null>,0.002522,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002711,0,176
+83584,Polygon Z,{A4FB45E9-43E0-4759-9EBF-DC6E30D96AD9},10/16/12,High,<Null>,<Null>,0.002595,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.002953,0,177
+31986,Polygon Z,{90C8E22B-580E-4BB7-A45A-8312E48798F1},10/16/12,High,<Null>,<Null>,0.002639,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.002897,0,178
+5665,Polygon Z,61498147,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003205,0,179
+14360,Polygon Z,61497985,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002604,0,180
+23144,Polygon Z,61495823,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002699,0,181
+40206,Polygon Z,61497355,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002525,0,182
+40454,Polygon Z,61497083,11/15/02,High,1490733,Soldiers Pond,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002519,0,183
+57590,Polygon Z,61496859,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002384,0,184
+83249,Polygon Z,61497939,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002402,0,185
+83437,Polygon Z,61498157,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00266,0,186
+83511,Polygon Z,61496911,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002913,0,187
+91844,Polygon Z,61498279,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002975,0,188
+100540,Polygon Z,61497631,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00226,0,189
+100739,Polygon Z,61500445,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.00291,0,190
+108702,Polygon Z,61501145,11/15/02,High,<Null>,<Null>,0.003,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.001982,0,191
+117884,Polygon Z,61497241,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002939,0,192
+126459,Polygon Z,61497923,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002055,0,193
+135081,Polygon Z,61496899,11/15/02,High,<Null>,<Null>,0.003,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002576,0,194
+83438,Polygon Z,{31506B88-D2A5-486E-8327-2C54EDE309CA},10/16/12,High,<Null>,<Null>,0.003009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002862,0,195
+5929,Polygon Z,{5BCC0042-FEBD-4F66-B474-E4A0A89C7E03},10/16/12,High,<Null>,<Null>,0.003163,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002461,0,196
+109191,Polygon Z,{3B175388-1BC0-45A7-9643-7D59D4E11642},10/16/12,High,<Null>,<Null>,0.003219,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.002413,0,197
+23397,Polygon Z,{7D6D2553-AC3A-4BAE-8ECB-F557C13A4436},10/16/12,High,<Null>,<Null>,0.00333,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003007,0,198
+83514,Polygon Z,{4AC17A73-2E64-4D4A-93BF-0D49BF1EFF0F},10/16/12,High,<Null>,<Null>,0.00342,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002494,0,199
+49075,Polygon Z,{A93B482D-77A2-4F7B-95E6-8D700C62ADFA},10/16/12,High,<Null>,<Null>,0.003459,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.002368,0,200
+5872,Polygon Z,{CD9952C5-2261-4D66-8190-679FECB55683},10/16/12,High,<Null>,<Null>,0.003592,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002744,0,201
+135186,Polygon Z,{F3C37478-FBD0-40B4-BCF6-EBFFCB4EF7D6},10/16/12,High,<Null>,<Null>,0.003599,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002799,0,202
+100680,Polygon Z,61500489,10/16/12,High,<Null>,<Null>,0.003661,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.00343,0,203
+14672,Polygon Z,{4DF3294C-2FB9-4522-920E-0DED8F928A39},10/16/12,High,<Null>,<Null>,0.003663,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.002667,0,204
+5736,Polygon Z,61496717,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002815,0,205
+31496,Polygon Z,61498333,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00251,0,206
+31699,Polygon Z,61497181,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003164,0,207
+31741,Polygon Z,61497047,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003116,0,208
+48819,Polygon Z,61496927,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002618,0,209
+74620,Polygon Z,135968375,7/30/10 6:29,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003087,0,210
+83246,Polygon Z,61498015,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002501,0,211
+83250,Polygon Z,61497509,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002972,0,212
+91807,Polygon Z,61498011,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003476,0,213
+100397,Polygon Z,61498197,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002408,0,214
+117681,Polygon Z,61497461,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003166,0,215
+117809,Polygon Z,61495747,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002978,0,216
+135083,Polygon Z,61495609,11/15/02,High,<Null>,<Null>,0.004,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002807,0,217
+57628,Polygon Z,61496349,10/16/12,High,<Null>,<Null>,0.004253,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002659,0,218
+48891,Polygon Z,{5F627B3C-EA08-408B-B81F-77EFA26E33DE},10/16/12,High,<Null>,<Null>,0.004325,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003327,0,219
+49107,Polygon Z,{6683A63D-086A-4CF2-9FCA-F35371B7BD27},10/16/12,High,<Null>,<Null>,0.0048,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003524,0,220
+66343,Polygon Z,{678380D1-851C-46CC-805C-E82FDCBB00CD},10/16/12,High,<Null>,<Null>,0.004892,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003518,0,221
+108659,Polygon Z,{26B55C89-A7E9-4A88-A83E-D1B4586571B3},10/16/12,High,<Null>,<Null>,0.004908,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.0032,0,222
+5697,Polygon Z,61496905,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004728,0,223
+14432,Polygon Z,61497951,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003486,0,224
+32013,Polygon Z,135653543,7/30/10 6:29,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003707,0,225
+48959,Polygon Z,61496953,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen,Unspecified,0.002886,0.000001,226
+83276,Polygon Z,61500923,11/15/02,High,<Null>,<Null>,0.005,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004519,0.000001,227
+92079,Polygon Z,61496727,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003861,0.000001,228
+117644,Polygon Z,61497521,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.008882,0,229
+117853,Polygon Z,61497425,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002823,0.000001,230
+117855,Polygon Z,61495877,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004303,0,231
+135049,Polygon Z,61496883,11/15/02,High,<Null>,<Null>,0.005,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002753,0,232
+5735,Polygon Z,{1A4A3491-00AD-4F1F-9F6A-E4F9F9876B20},10/16/12,High,<Null>,<Null>,0.005141,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.002988,0.000001,233
+100477,Polygon Z,61495815,10/16/12,High,<Null>,<Null>,0.005457,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004162,0.000001,234
+126605,Polygon Z,{4F1828E4-AF38-4A38-934B-A2ECAEA9BEB7},10/16/12,High,<Null>,<Null>,0.005721,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003317,0.000001,235
+126545,Polygon Z,135653554,10/16/12,High,<Null>,<Null>,0.005921,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003223,0.000001,236
+23178,Polygon Z,61496787,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.003406,0.000001,237
+31698,Polygon Z,61498167,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003625,0.000001,238
+40110,Polygon Z,61498179,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003393,0.000001,239
+57467,Polygon Z,61496933,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003931,0.000001,240
+74578,Polygon Z,61497591,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003454,0.000001,241
+117608,Polygon Z,61496941,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003121,0.000001,242
+135107,Polygon Z,61497751,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003972,0.000001,243
+5840,Polygon Z,{FCA19467-E5FB-4D79-B8DC-BA95B0EB06D2},10/16/12,High,<Null>,<Null>,0.006135,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00344,0.000001,244
+14698,Polygon Z,{0E6FDF84-E252-4AC5-8943-26006EBF5F64},10/16/12,High,<Null>,<Null>,0.006153,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004325,0.000001,245
+5780,Polygon Z,61495767,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003513,0.000001,246
+5836,Polygon Z,61496969,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003238,0.000001,247
+31663,Polygon Z,61497543,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004069,0.000001,248
+31742,Polygon Z,61496925,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003489,0.000001,249
+31777,Polygon Z,61497257,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003687,0.000001,250
+40380,Polygon Z,61496915,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00366,0.000001,251
+48887,Polygon Z,61495787,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003508,0.000001,252
+57554,Polygon Z,61496713,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003432,0.000001,253
+108856,Polygon Z,61498283,11/15/02,High,<Null>,<Null>,0.007,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004818,0.000001,254
+100575,Polygon Z,{D8FC82E1-1CFE-44DC-92F1-2EDA54AB8269},10/16/12,High,<Null>,<Null>,0.007245,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003484,0.000001,255
+109042,Polygon Z,{54EB4526-260B-484E-823A-7FD31B9756DA},10/16/12,High,<Null>,<Null>,0.007381,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003953,0.000001,256
+40488,Polygon Z,{68BCA5C5-1391-4868-989E-861DEF762F27},10/16/12,High,<Null>,<Null>,0.00748,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003787,0.000001,257
+100715,Polygon Z,{45810AD2-8173-4194-B0CF-2F1C09348909},10/16/12,High,<Null>,<Null>,0.007849,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003619,0.000001,258
+5812,Polygon Z,{82237C12-82B3-4592-B7A4-9F527BA82A0A},10/16/12,High,<Null>,<Null>,0.007862,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005179,0.000001,259
+48816,Polygon Z,61497735,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003574,0.000001,260
+57499,Polygon Z,61495635,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004892,0.000001,261
+66065,Polygon Z,61500961,11/15/02,High,<Null>,<Null>,0.008,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003789,0.000001,262
+83440,Polygon Z,61500407,11/15/02,High,<Null>,<Null>,0.008,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004989,0.000001,263
+91879,Polygon Z,61497201,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007348,0.000001,264
+126252,Polygon Z,61501097,11/15/02,High,<Null>,<Null>,0.008,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.003403,0.000001,265
+126333,Polygon Z,61496687,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003662,0.000001,266
+134936,Polygon Z,61497147,11/15/02,High,<Null>,<Null>,0.008,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004491,0.000001,267
+126606,Polygon Z,{32461158-9BE4-4588-A1BE-81749C661EED},10/16/12,High,<Null>,<Null>,0.00802,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.004406,0.000001,268
+23400,Polygon Z,{42E54645-3C82-48A1-BB6D-E5BAB368800B},10/16/12,High,<Null>,<Null>,0.008394,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography,Unspecified,0.006428,0.000001,269
+23143,Polygon Z,61497039,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004458,0.000001,270
+23399,Polygon Z,135653587,7/30/10 6:29,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003685,0.000001,271
+66133,Polygon Z,61497989,11/15/02,High,<Null>,<Null>,0.009,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003853,0.000001,272
+66169,Polygon Z,{E93331DE-BCFB-4421-BAC9-EDA9B7850471},10/16/12,High,<Null>,<Null>,0.009247,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.008257,0.000001,273
+5621,Polygon Z,61495803,10/16/12,High,<Null>,<Null>,0.00985,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006821,0.000001,274
+23141,Polygon Z,61498299,11/15/02,High,<Null>,<Null>,0.01,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005002,0.000001,275
+48774,Polygon Z,61497221,11/15/02,High,<Null>,<Null>,0.01,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003606,0.000001,276
+109081,Polygon Z,61500779,11/15/02,High,<Null>,<Null>,0.01,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.007178,0.000001,277
+126428,Polygon Z,{308760D2-433A-421B-881A-F9324E5DBEFC},10/16/12,High,<Null>,<Null>,0.010036,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.005012,0.000001,278
+92080,Polygon Z,{BAB9F993-3292-4FC3-AC3C-34D6D63B2DC0},10/16/12,High,<Null>,<Null>,0.010488,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005847,0.000001,279
+23174,Polygon Z,61501133,10/16/12,High,<Null>,<Null>,0.010665,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004429,0.000001,280
+5873,Polygon Z,61500463,11/15/02,High,<Null>,<Null>,0.011,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.006133,0.000001,281
+14338,Polygon Z,61501093,11/15/02,High,<Null>,<Null>,0.011,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004463,0.000001,282
+23339,Polygon Z,135653561,7/30/10 6:29,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004845,0.000001,283
+48885,Polygon Z,61498105,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00707,0.000001,284
+66100,Polygon Z,61497095,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00529,0.000001,285
+83513,Polygon Z,61500533,11/15/02,High,<Null>,<Null>,0.011,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.007416,0.000001,286
+117712,Polygon Z,61496853,11/15/02,High,<Null>,<Null>,0.011,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004031,0.000001,287
+126218,Polygon Z,61501047,11/15/02,High,<Null>,<Null>,0.011,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.005728,0.000001,288
+31605,Polygon Z,61497435,11/15/02,High,1472032,Pamplins Pond,0.012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00479,0.000001,289
+48663,Polygon Z,61501049,11/15/02,High,<Null>,<Null>,0.012,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008131,0.000001,290
+48890,Polygon Z,61495637,11/15/02,High,<Null>,<Null>,0.012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004766,0.000001,291
+48961,Polygon Z,61495967,11/15/02,High,<Null>,<Null>,0.012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006794,0.000001,292
+100365,Polygon Z,135972687,7/30/10 6:29,High,<Null>,<Null>,0.012,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006857,0.000001,293
+100544,Polygon Z,61496813,11/15/02,High,<Null>,<Null>,0.012,<Null>,2.08021E+12,Reservoir,Reservoir: Reservoir Type = Treatment,Unspecified,0.004739,0.000001,294
+49106,Polygon Z,61495923,11/15/02,High,<Null>,<Null>,0.013,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006086,0.000001,295
+57379,Polygon Z,61498363,11/15/02,High,<Null>,<Null>,0.013,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.004418,0.000001,296
+117749,Polygon Z,61497847,11/15/02,High,<Null>,<Null>,0.013,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006635,0.000001,297
+135215,Polygon Z,61496707,10/16/12,High,<Null>,<Null>,0.013508,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005118,0.000001,298
+74821,Polygon Z,61496385,10/16/12,High,<Null>,<Null>,0.013784,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.005329,0.000001,299
+23309,Polygon Z,61496691,10/16/12,High,<Null>,<Null>,0.013893,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006884,0.000001,300
+23272,Polygon Z,61497017,11/15/02,High,<Null>,<Null>,0.014,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005988,0.000001,301
+74472,Polygon Z,135972657,6/1/05 17:31,High,<Null>,<Null>,0.014,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004577,0.000001,302
+108855,Polygon Z,61498267,11/15/02,High,<Null>,<Null>,0.014,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006231,0.000001,303
+126543,Polygon Z,61496761,10/16/12,High,<Null>,<Null>,0.014797,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007905,0.000002,304
+14673,Polygon Z,135655177,5/16/05 13:31,High,<Null>,<Null>,0.015,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004839,0.000001,305
+23048,Polygon Z,61501087,11/15/02,High,<Null>,<Null>,0.015,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004599,0.000002,306
+108827,Polygon Z,61500995,11/15/02,High,<Null>,<Null>,0.015,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004707,0.000002,307
+109011,Polygon Z,61500431,11/15/02,High,<Null>,<Null>,0.015,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.005885,0.000001,308
+57629,Polygon Z,{8B82CF92-88E5-4ADC-9FAD-9CD89882EC3E},10/16/12,High,<Null>,<Null>,0.015531,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006111,0.000002,309
+23115,Polygon Z,61497547,11/15/02,High,<Null>,<Null>,0.016,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007226,0.000002,310
+57237,Polygon Z,61498259,11/15/02,High,<Null>,<Null>,0.016,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007245,0.000002,311
+57630,Polygon Z,61495907,11/15/02,High,1473622,Ruffins Pond,0.016,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.008224,0.000002,312
+83388,Polygon Z,61500383,11/15/02,High,<Null>,<Null>,0.016,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.00775,0.000002,313
+100320,Polygon Z,61501121,11/15/02,High,<Null>,<Null>,0.016,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.004943,0.000002,314
+100738,Polygon Z,{07D24E4A-0078-44F9-BCCD-CA971B75EFC3},10/16/12,High,<Null>,<Null>,0.016056,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006497,0.000002,315
+91881,Polygon Z,61496677,11/15/02,High,<Null>,<Null>,0.017,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007518,0.000002,316
+100573,Polygon Z,61495791,11/15/02,High,<Null>,<Null>,0.017,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006182,0.000002,317
+117575,Polygon Z,61497215,11/15/02,High,<Null>,<Null>,0.017,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005721,0.000002,318
+40235,Polygon Z,{6E4C85CD-6C38-4CC5-9B9C-44110132FD6B},10/16/12,High,<Null>,<Null>,0.018669,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005573,0.000002,319
+48889,Polygon Z,61495855,11/15/02,High,<Null>,<Null>,0.019,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00536,0.000002,320
+126544,Polygon Z,61500577,11/15/02,High,<Null>,<Null>,0.019,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008462,0.000002,321
+134935,Polygon Z,61497171,11/15/02,High,<Null>,<Null>,0.019,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007342,0.000002,322
+83350,Polygon Z,{62FC599B-903A-4D7F-B3EE-F8F9432B4F86},10/16/12,High,<Null>,<Null>,0.01944,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.007947,0.000002,323
+31604,Polygon Z,61497581,11/15/02,High,<Null>,<Null>,0.02,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007386,0.000002,324
+40421,Polygon Z,61500749,11/15/02,High,<Null>,<Null>,0.02,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008987,0.000002,325
+117647,Polygon Z,61495833,11/15/02,High,<Null>,<Null>,0.02,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.009868,0.000002,326
+23146,Polygon Z,61495819,11/15/02,High,<Null>,<Null>,0.021,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007887,0.000002,327
+57688,Polygon Z,61500461,11/15/02,High,<Null>,<Null>,0.021,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.007466,0.000002,328
+83477,Polygon Z,61496907,11/15/02,High,<Null>,<Null>,0.022,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007635,0.000002,329
+100574,Polygon Z,61495847,11/15/02,High,<Null>,<Null>,0.022,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006008,0.000002,330
+5778,Polygon Z,61497067,11/15/02,High,<Null>,<Null>,0.023,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.010528,0.000002,331
+14361,Polygon Z,61497701,11/15/02,High,<Null>,<Null>,0.023,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.006705,0.000002,332
+40236,Polygon Z,{10C554E1-43C0-4124-9515-539A6B496DA9},10/16/12,High,<Null>,<Null>,0.023871,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.005921,0.000002,333
+66024,Polygon Z,61500875,11/15/02,High,<Null>,<Null>,0.025,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.006739,0.000003,334
+117808,Polygon Z,61500865,11/15/02,High,<Null>,<Null>,0.025,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.01094,0.000002,335
+5506,Polygon Z,61501031,11/15/02,High,<Null>,<Null>,0.026,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.006999,0.000003,336
+23338,Polygon Z,61496595,11/15/02,High,<Null>,<Null>,0.026,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.007173,0.000003,337
+31953,Polygon Z,61496495,11/15/02,High,<Null>,<Null>,0.027,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.008001,0.000003,338
+134975,Polygon Z,61497107,11/15/02,High,<Null>,<Null>,0.028,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.0081,0.000003,339
+108780,Polygon Z,61500893,11/15/02,High,<Null>,<Null>,0.031,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.008286,0.000003,340
+49004,Polygon Z,61496461,10/16/12,High,<Null>,<Null>,0.033105,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.007635,0.000003,341
+14339,Polygon Z,61497915,11/15/02,High,1489623,Claytons Pond,0.034,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.009569,0.000003,342
+48888,Polygon Z,61500399,11/15/02,High,<Null>,<Null>,0.035,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.01822,0.000004,343
+126217,Polygon Z,61501055,11/15/02,High,<Null>,<Null>,0.04,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.014571,0.000004,344
+14297,Polygon Z,61498085,11/15/02,High,<Null>,<Null>,0.043,50.3,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation,Unspecified,0.008938,0.000004,345
+109190,Polygon Z,{312346B5-39F5-4C00-983A-DB0C71526E73},10/16/12,High,<Null>,<Null>,0.044979,<Null>,2.08021E+12,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.016011,0.000005,346
+40379,Polygon Z,61496895,11/15/02,High,<Null>,<Null>,0.047,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.00977,0.000005,347
+135217,Polygon Z,61500695,11/15/02,High,<Null>,<Null>,0.048,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.009933,0.000005,348
+109120,Polygon Z,61496463,10/16/12,High,<Null>,<Null>,0.052121,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.01323,0.000005,349
+109080,Polygon Z,61496751,11/15/02,High,<Null>,<Null>,0.055,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.011216,0.000006,350
+5667,Polygon Z,61495801,10/16/12,High,1489474,Rieves Lake,0.058794,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.027694,0.000006,351
+57662,Polygon Z,61500451,11/15/02,High,<Null>,<Null>,0.061,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.014929,0.000006,352
+83247,Polygon Z,61498239,11/15/02,High,<Null>,<Null>,0.062,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.022955,0.000006,353
+83248,Polygon Z,61498271,11/15/02,High,<Null>,<Null>,0.062,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.011483,0.000006,354
+100679,Polygon Z,61496637,11/15/02,High,<Null>,<Null>,0.062,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.016966,0.000006,355
+100678,Polygon Z,61496611,11/15/02,High,<Null>,<Null>,0.063,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.013327,0.000006,356
+109221,Polygon Z,135656326,5/16/05 13:33,High,<Null>,<Null>,0.066,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.015493,0.000007,357
+5582,Polygon Z,61500969,10/16/12,High,<Null>,<Null>,0.068209,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.015813,0.000007,358
+74513,Polygon Z,61500981,11/15/02,High,<Null>,<Null>,0.069,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.009959,0.000007,359
+74757,Polygon Z,61497857,11/15/02,High,1502160,Wilcox Lake,0.073,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.02482,0.000007,360
+40112,Polygon Z,{EDEC90A5-E5CD-4DBA-A328-0BEB52EB2815},10/16/12,High,<Null>,<Null>,0.085802,<Null>,2.08021E+12,Reservoir,Reservoir,Unspecified,0.012864,0.000009,361
+23310,Polygon Z,61500555,11/15/02,High,<Null>,<Null>,0.088,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.016686,0.000009,362
+5837,Polygon Z,61496429,10/16/12,High,<Null>,<Null>,0.090325,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.014524,0.000009,363
+92039,Polygon Z,61500745,11/15/02,High,<Null>,<Null>,0.112,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.02295,0.000011,364
+40423,Polygon Z,61500547,10/16/12,High,<Null>,<Null>,0.118577,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.021572,0.000012,365
+40422,Polygon Z,61496575,10/16/12,High,<Null>,<Null>,0.132946,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Intermittent,Unspecified,0.018655,0.000014,366
+83512,Polygon Z,61500587,11/15/02,High,<Null>,<Null>,0.166,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.029965,0.000017,367
+5839,Polygon Z,61500537,11/15/02,High,<Null>,<Null>,0.198,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.021092,0.00002,368
+135145,Polygon Z,{CE8B7EE7-0A7C-462F-A42F-60C944175174},10/16/12,High,<Null>,<Null>,0.216877,<Null>,<Null>,SwampMarsh,Swamp/Marsh: Hydrographic Category: Perennial,Unspecified,0.03491,0.000022,369
+23311,Polygon Z,61500443,11/15/02,High,<Null>,<Null>,0.316,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.066436,0.000032,370
+135216,Polygon Z,61496755,11/15/02,High,<Null>,<Null>,0.371,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.044583,0.000038,371
+48921,Polygon Z,61500795,10/16/12,High,<Null>,<Null>,0.415611,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.07299,0.000042,372
+49003,Polygon Z,61496573,10/16/12,High,<Null>,<Null>,0.470475,<Null>,2.08021E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.029864,0.000048,373
+66282,Polygon Z,61500539,11/15/02,High,<Null>,<Null>,0.479,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.053222,0.000049,374
+126574,Polygon Z,61500429,11/15/02,High,<Null>,<Null>,0.522,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.04761,0.000053,375
+5838,Polygon Z,61500527,11/15/02,High,<Null>,<Null>,0.674,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.05196,0.000068,376
+74936,Polygon Z,135655417,5/16/05 13:32,High,<Null>,<Null>,1.051,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.088764,0.000107,377
+120730,Polygon Z,61500449,10/16/12,High,<Null>,<Null>,1.215224,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.096036,0.000124,378
+94847,Polygon Z,61500583,11/15/02,High,<Null>,<Null>,1.435,<Null>,<Null>,SwampMarsh,Swamp/Marsh,Unspecified,0.140795,0.000146,379
