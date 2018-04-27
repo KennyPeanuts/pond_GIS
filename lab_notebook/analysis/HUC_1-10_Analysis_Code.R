@@ -23,8 +23,13 @@
     huc9 <- read.table("./data/Huc9.csv", header = T, sep = ",")
     huc10 <- read.table("./data/Huc10.csv", header = T, sep = ",")
    
-#### Create HUC ID Field
+#### Plot Frequency Histograms
+    
+    hist(huc1$AreaSqKm)
+    
+#### Plot Area by Rank
+    
+    plot(AreaSqKm ~ Rank, data = huc5, type = "l")
 
-To combine all of the HUCs into a single dataset I need to create a ID field 
-
+    sum(huc1$AreaSqKm)
     
