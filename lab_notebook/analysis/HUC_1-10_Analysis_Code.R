@@ -26,7 +26,27 @@
    
 #### Plot Frequency Histograms
     
-    hist(huc1$AreaSqKm)
+    huc1_density <- density(huc1$AreaSqKm) 
+    huc2_density <- density(huc2$AreaSqKm) 
+    huc3_density <- density(huc3$AreaSqKm) 
+    huc4_density <- density(huc4$AreaSqKm) 
+    huc5_density <- density(huc5$AreaSqKm) 
+    huc6_density <- density(huc6$AreaSqKm) 
+    huc7_density <- density(huc7$AreaSqKm) 
+    huc8_density <- density(huc8$AreaSqKm) 
+    huc9_density <- density(huc9$AreaSqKm) 
+    huc10_density <- density(huc10$AreaSqKm) 
+    plot(huc1_density, ylim = c(0, 150), xlim = c(0, 0.5))
+    points(huc2_density, col = 2, type = "l")
+    points(huc3_density, col = 3, type = "l")
+    points(huc4_density, col = 4, type = "l")
+    points(huc5_density, col = 5, type = "l")
+    points(huc6_density, col = 6, type = "l")
+    points(huc7_density, col = 7, type = "l")
+    points(huc8_density, col = 8, type = "l")
+    points(huc9_density, col = 9, type = "l")
+    points(huc10_density, col = 10, type = "l")
+    hist(huc2$AreaSqKm)
     
 #### Plot CumArea by Rank
     
@@ -75,6 +95,7 @@
     total_area <- c(huc1$AreaSqKm, huc2$AreaSqKm, huc3$AreaSqKm, huc4$AreaSqKm, huc5$AreaSqKm, huc6$AreaSqKm, huc7$AreaSqKm, huc8$AreaSqKm, huc9$AreaSqKm, huc10$AreaSqKm)
     stem(total_area)
     hist(log10(total_area))
+    plot(density(total_area))
     
 ### Calculate the density of lakes and ponds per HUC
 #### Make a data.frame of pond numbers per HUC
@@ -82,4 +103,38 @@
     pond_number <- c(max(huc1$Rank), max(huc2$Rank), max(huc3$Rank), max(huc4$Rank), max(huc5$Rank), max(huc6$Rank), max(huc7$Rank), max(huc8$Rank), max(huc9$Rank), max(huc10$Rank))
     pond_density <- pond_number / ((huc_areas$huc_areas) / 1000000) # should be in ponds per km2 but need to confirm
     pond_dens <- data.frame(huc_areas, pond_number, pond_density)
+    plot(pond_density ~ huc_name, data = pond_dens, ylim = c(0, 2))
+    boxplot(pond_density, ylim = c(0, 2))
+    
+### Calculate the pond area : huc area
+#### Make a data.frame of pond numbers per HUC
+    huc_name <- 1:10
+    cum_area <- c(max(huc1$CumArea), max(huc2$CumArea), max(huc3$CumArea), max(huc4$CumArea), max(huc5$CumArea), max(huc6$CumArea), max(huc7$CumArea), max(huc8$CumArea), max(huc9$CumArea), max(huc10$CumArea))
+    PA_WSA <- cum_area / ((huc_areas$huc_areas) / 1000000) # should be in km2 but need to confirm
+    pond_ws_ratio <- data.frame(huc_areas, cum_area, PA_WSA)
+    boxplot(PA_WSA * 100, ylim = c(0, 5))
+
+### Calculate the percent of the pond area comprised by each pond by rank
+    huc1_perc_cum_area <- (huc1$AreaSqKm / max(huc1$CumArea) * 100)
+    huc2_perc_cum_area <- (huc2$AreaSqKm / max(huc2$CumArea) * 100)
+    huc3_perc_cum_area <- (huc3$AreaSqKm / max(huc3$CumArea) * 100)
+    huc4_perc_cum_area <- (huc4$AreaSqKm / max(huc4$CumArea) * 100)
+    huc5_perc_cum_area <- (huc5$AreaSqKm / max(huc5$CumArea) * 100)
+    huc6_perc_cum_area <- (huc6$AreaSqKm / max(huc6$CumArea) * 100)
+    huc7_perc_cum_area <- (huc7$AreaSqKm / max(huc7$CumArea) * 100)
+    huc8_perc_cum_area <- (huc8$AreaSqKm / max(huc8$CumArea) * 100)
+    huc9_perc_cum_area <- (huc9$AreaSqKm / max(huc9$CumArea) * 100)
+    huc10_perc_cum_area <- (huc10$AreaSqKm / max(huc10$CumArea) * 100)
+    
+    plot(huc1_perc_cum_area ~ huc1$Rank, type = "l", ylim = c(0, 65), xlim = c(0, 900))
+    points(huc2_perc_cum_area ~ huc2$Rank, type = "l", ylim = c(0, 65))
+    points(huc3_perc_cum_area ~ huc3$Rank, type = "l", ylim = c(0, 65))
+    points(huc4_perc_cum_area ~ huc4$Rank, type = "l", ylim = c(0, 65))
+    points(huc5_perc_cum_area ~ huc5$Rank, type = "l", ylim = c(0, 65))
+    points(huc6_perc_cum_area ~ huc6$Rank, type = "l", ylim = c(0, 65))
+    points(huc7_perc_cum_area ~ huc7$Rank, type = "l", ylim = c(0, 65))
+    points(huc8_perc_cum_area ~ huc8$Rank, type = "l", ylim = c(0, 65))
+    points(huc9_perc_cum_area ~ huc9$Rank, type = "l", ylim = c(0, 65))
+    points(huc10_perc_cum_area ~ huc10$Rank, type = "l", ylim = c(0, 65))
+    
     
