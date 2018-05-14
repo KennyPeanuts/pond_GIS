@@ -1,4 +1,4 @@
-﻿OBJECTID,Shape,Permanent_Identifier,FDate,Resolution,GNIS_ID,GNIS_Name,AreaSqKm,Elevation,ReachCode,FType,FCode,VisibilityFilter,Shape_Length,Shape_Area,Rank,CumArea
+OBJECTID,Shape,Permanent_Identifier,FDate,Resolution,GNIS_ID,GNIS_Name,AreaSqKm,Elevation,ReachCode,FType,FCode,VisibilityFilter,Shape_Length,Shape_Area,Rank,CumArea
 11916,Polygon Z,61498243,11/15/02,High,<Null>,<Null>,0,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000764,0,1,0
 11961,Polygon Z,61498945,11/15/02,High,<Null>,<Null>,0,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000647,0,2,0
 20544,Polygon Z,61498347,11/15/02,High,<Null>,<Null>,0,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.000628,0,3,0
@@ -208,7 +208,7 @@
 3493,Polygon Z,61497851,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003078,0.000001,207,0.512992
 46073,Polygon Z,61497983,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003154,0.000001,208,0.518992
 63404,Polygon Z,61499057,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003324,0.000001,209,0.524992
-64043,Polygon Z,61498847,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002993,0.000001,170,0.530992
+64043,Polygon Z,61498847,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.002993,0.000001,210,0.530992
 98404,Polygon Z,61498405,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003796,0.000001,211,0.536992
 106275,Polygon Z,61498213,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003086,0.000001,212,0.542992
 107030,Polygon Z,61497901,11/15/02,High,<Null>,<Null>,0.006,<Null>,2.08E+12,LakePond,Lake/Pond: Hydrographic Category = Perennial,Unspecified,0.003251,0.000001,213,0.548992
